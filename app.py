@@ -1,7 +1,3 @@
-"""
-Ponto de entrada da aplicação.
-Inicializa o servidor Flask e registra as rotas.
-"""
 
 from flask import Flask
 from apresentacao.rotas_usuario import usuario_bp
